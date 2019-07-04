@@ -6,8 +6,8 @@
   <name>maven-release-thorsten</name>
   
     <scm>
-    <connection>scm:git:http://github.com/falcon68/maven_release_test</connection>
-    <developerConnection>scm:git:https://github.com/falcon68/maven_release_test</developerConnection>
+    <connection>scm:git:http://github.com/falcon68/maven-release-thorsten.git</connection>
+    <developerConnection>scm:git:https://github.com/falcon68/maven-release-thorsten.git</developerConnection>
     <url>http://somerepository.com/view.cvs</url>
     <tag>maven-release-thorsten-1.0.0</tag>
   </scm>
